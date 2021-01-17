@@ -1,5 +1,5 @@
 # WhoIsAuto
-A Tool to Check Domains
+A Windows Tool to Check Domains
 
 <img src="https://burncycle.de/share/overview.png" />
 
