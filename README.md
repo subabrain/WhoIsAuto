@@ -12,7 +12,9 @@ You get a File with all free Domains.
 2. You can use Socks Proxies for Connection
 3. You can import also huge Files
 4. You can set the time between each request
+5. You can scan the follwing Domain Endings: de, com, info, org, net, eu
 
-and all for free :)
 
-have fun!
+<b>and all for free :)</b>
+
+<b>have fun!</b>
