@@ -7,4 +7,12 @@ With this Tool you can scan multiple Domainnames at the same time.
 
 You get a File with all free Domains.
 
-Its possible to use a socks Proxy too - have fun!
+# Features
+1. You can use IDN Domains
+2. You can use Socks Proxies for Connection
+3. You can import also huge Files
+4. You can set the time between each request
+
+and all for free :)
+
+have fun!
