@@ -14,6 +14,7 @@ You get a File with all free Domains.
 4. You can set the time between each request
 5. You can scan the follwing Domain Endings: de, com, info, org, net, eu
 
+<hr>
 
 <b>and all for free :)</b>
 
