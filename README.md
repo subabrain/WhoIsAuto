@@ -20,6 +20,6 @@ You get a File with all free Domains.
 
 <b>have fun!</b>
 
-Please donate if you find my work usefull :)
+Please donate if you find my work useful :)
 
 https://www.paypal.com/donate?hosted_button_id=62JXCSR5UGFC6
