@@ -1,7 +1,7 @@
 # WhoIsAuto
 A Windows Tool to Check Words for not registered Domainnames.
 
-<img src="https://burncycle.de/share/overview2.png" />
+![483250178_1405424427291690_8651130009253766027_n](https://github.com/user-attachments/assets/5ae8a041-0384-446e-9a0f-14430cacf5b8)
 
 With this Tool you can scan multiple Domainnames at the same time.
 
